@@ -6,7 +6,7 @@ include color
 justeringBig = rectangle(540, 300, "solid", "lightblue")
 sirkelg = circle(120, "solid", color(253, 218, 13, 1))
 morkeblaa = rectangle(540, 100, "solid", "darkblue")
-sol = circle(40, "solid", color(253, 184, 19, 1))
+sol = circle(40, "solid", color(255, 215, 0, 1))
 
 
 oyenbryn-venstre = rotate(30, ellipse(70, 10,"solid", "dark-orange"))
